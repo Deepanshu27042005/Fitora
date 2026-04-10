@@ -1,3 +1,7 @@
+# 💪 Fitora - Fitness Tracker & BMI Analyzer
+
+Fitora is a smart health companion currently in its **initial development phase**, designed to help users monitor their fitness and overall well-being.
+
 The app focuses on providing a clean and intuitive interface to track daily activities, calculate BMI, and explore basic health tips.
 
 ---
